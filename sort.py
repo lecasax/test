@@ -11,4 +11,4 @@ def insertionSort(alist):
 
      alist[position]=currentvalue
 
-print(alist)
+#print(alist)
